@@ -1,0 +1,62 @@
+canonical_identifier: bkk:krp/KR3a0112/v1
+canonical_location: https://kanripo.org/bkk/KR3a0112/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 正學隅見述
+  date: '2015-08-24 23:01:55.579668'
+  source:
+    repository: kanripo
+    path: KR3a0112
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0112_000.yaml, hash: 'sha256:1bbb45ddfb9345a5a2a7635b78e54528ad79e4d6cc4115e978ad45056bd4fae6'}
+  - {seq: 1, filename: KR3a0112_001.yaml, hash: 'sha256:26d8f672697c3e0ea456e768d8bfa5739c1b818ca653926e5520162f394fa46b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0112_000.markers.yaml, hash: 'sha256:f49797b2837108762672d9714c4c4e208d3d1c4ad83ab2e24b681b631a966ab5'}
+  - {seq: 1, role: markers, filename: assets/KR3a0112_001.markers.yaml, hash: 'sha256:f0152fa9cefa3cc0b4aa52cf9b3a8fc9d747ec94aaf28fa38c3d606972747c84'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0112_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 293
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0112_WYG_000-3a
+    span:
+    - body
+    - 293
+    - 443
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0112_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 17589
+  label: 正學隅見述
+  type: section
+  level: 1
+hash: sha256:df9b10026c552464835ae9ab3bd4bc64de7d5eeb5b58fe8dbec72fa0eadfb25b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
