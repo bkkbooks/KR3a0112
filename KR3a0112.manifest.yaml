@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3a0112_000.yaml, hash: 'sha256:a00fec5cb01cc62e510f0647f50599422d30ba804f4085b2789c7cd90b9df315'}
   - {seq: 1, filename: KR3a0112_001.yaml, hash: 'sha256:7b37496113a632727ea642c517af2de50fb33b4ae2263c56356c8f2ae69aedd8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0112_000.markers.yaml, hash: 'sha256:df9de522e10e604a7110339c5f7eb57ceb3117f3240ba6334fb445f11d5e3689'}
-  - {seq: 1, role: markers, filename: assets/KR3a0112_001.markers.yaml, hash: 'sha256:bb5b6c4031246a17aa4b1b46303ca2b5e4f94e8f9bd6edb7f83fd5f7aa98c83b'}
+  - {seq: 0, role: markers, filename: assets/KR3a0112_000.markers.yaml, hash: 'sha256:4a9a14a483b4147cf49262030bd13cb96dfc74db8883ec0c2599260e3afbbcd1'}
+  - {seq: 1, role: markers, filename: assets/KR3a0112_001.markers.yaml, hash: 'sha256:8bfab1767eb949c274f9b2ca9a3249766b8437bf10809fe4e82e525e4c9d8547'}
 table_of_contents:
 - ref:
     seq: 0
@@ -56,7 +56,7 @@ table_of_contents:
   label: 正學隅見述
   type: section
   level: 1
-hash: sha256:edf3d13f87a6a91e7bd4146da0deafa48c3b47b2f576644e10f8276dde4ef5f2
+hash: sha256:f907457fbf7bad0138d0edff0f09dc2fed9d4cb7912f455547a565a78538ff9f
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
